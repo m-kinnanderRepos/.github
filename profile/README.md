@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matthew Kinnander
+- 👋 Hi, I’m Matthew Kinnander-Dalbec
 - 👀 I’m interested in making applications that utilize data from apis
 - 🌱 I’m currently learning about aws
 - 💞️ I’m looking to collaborate on any of my open source projects
